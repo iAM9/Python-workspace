@@ -1,0 +1,1 @@
+Copies file(s) from one directory to another while maintaining the original directory structure. If the destination does not match the directory structure of the source, it creates a new one.
