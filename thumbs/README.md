@@ -1,4 +1,4 @@
-Provides a convenient way to quickly go through mutliple videos without actually viewing them.
+Provides a convenient way to quickly go through multiple videos without actually viewing them.
 
 - Scans through video files in a directory.   
 - Grabs a beginning, middle and an ending frame of the each video file.   
